@@ -1,4 +1,4 @@
-package ar.edu.unju.escmi.ejercicio02;
+package ar.edu.unju.escmi.poo.ejercicio02;
 
 import java.util.Scanner;
 import java.util.TreeSet;
